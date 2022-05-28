@@ -1,7 +1,7 @@
 ## FynnCraft
 
-❓ Was sind wir überhaupt?
+❓Was ist Fynncraft überhaupt
 
 👩‍🔧 Wir sind ein Minecraft Server mit der IP: Fynncraft.de und der Version: 1.16 - 1.18
 
-🤝 Wir sind mit dem Minecraft-Server Hoster FynnCloud gepartnert
+🤝 Unser Partner ist der Minecraft-Server Hoster FynnCloud
